@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
   "homepage": "https://Albertukraine.github.io/goit-js-hw-08",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-08.git"
+    "url": "git+https://github.com/Albertukraine/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -18,6 +18,8 @@
     "url": "https://Albertukraine.github.io/goit-js-hw-08"
   },
   "dependencies": {
+    "@vimeo/player": "^2.17.1",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.10.3"
   },
